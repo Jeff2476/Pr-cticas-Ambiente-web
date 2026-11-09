@@ -1,0 +1,31 @@
+ESTADO DE CUENTA - TARJETA DE CREDITO
+================================================
+
+Transaccion #1
+Descripcion: Compra de supermercado
+Monto: 32,500.00
+------------------------------------------------
+Transaccion #2
+Descripcion: Combustible
+Monto: 18,000.00
+------------------------------------------------
+Transaccion #3
+Descripcion: Pago de servicio de internet
+Monto: 25,000.00
+------------------------------------------------
+Transaccion #4
+Descripcion: Compra de articulos personales
+Monto: 12,750.00
+------------------------------------------------
+Transaccion #5
+Descripcion: Cena en restaurante
+Monto: 14,500.00
+------------------------------------------------
+
+Total de contado:        102,750.00
+Total con interes (2.6%): 105,421.50
+Cashback (0.1%):         -102.75
+================================================
+MONTO FINAL A PAGAR:     105,318.75
+
+El cashback se descuenta del total con intereses.
